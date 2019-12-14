@@ -161,8 +161,8 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 
 .sidebar
 { float: right;
-  width: 190px;
-  padding: 0 15px 20px 15px;}
+  width: 20%;
+  padding: 20px 15px 20px 15px;}
 
 .sidebar ul
 { width: 178px; 
@@ -184,8 +184,13 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 
 #content
 { text-align: justify;
-  width: 100%;
+  width: 80%;
   padding: 0;}
+
+.myPic
+{ text-align: justify;
+margin:auto;
+padding: 0 0 auto auto;}  
 
 #content ul
 { margin: 2px 0 22px 0px;
