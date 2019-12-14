@@ -1,0 +1,4 @@
+M. U. Farooq, A. Shakoor and A. B. Siddique, "GPS based Public Transport Arrival Time Prediction," 2017 International Conference on Frontiers of Information Technology (FIT), Islamabad, 2017, pp. 76-81.
+doi: 10.1109/FIT.2017.00021
+keywords: {Global Positioning System;mobile communication;optimisation;public transport;road vehicles;traffic engineering computing;time prediction;arrival times;Global Positioning System;Global System for Mobile Communications;Real-Time Locating System;old-fashioned techniques;public transport arrival time prediction system;prediction systems;respective bus stops;bus arrival;developing countries;GPS;bus stop;Final Traveling Time;Servers;Global Positioning System;GSM;Real-time systems;Predictive models;Smart phones;Microcontrollers;Automatic Vehicle Location;Intelligent Traveling System;RTLS;GPS;GSM;IoV},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8261015&isnumber=8259514

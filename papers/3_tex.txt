@@ -1,0 +1,12 @@
+@INPROCEEDINGS{7918936,
+author={M. U. {Farooq} and A. {Shakoor} and A. B. {Siddique}},
+booktitle={2017 International Conference on Communication, Computing and Digital Systems (C-CODE)},
+title={An Efficient Dynamic Round Robin algorithm for CPU scheduling},
+year={2017},
+volume={},
+number={},
+pages={244-248},
+keywords={embedded systems;operating systems (computers);scheduling;dynamic round robin algorithm;CPU scheduling;embedded systems;operating systems;process scheduling policy;dynamic time quantum;Heuristic algorithms;Round robin;Context;Scheduling;Operating systems;Sorting;Operating Systems (OS);CPU scheduling;Round Robin (RR) algorithm;Dyanmic time quantum},
+doi={10.1109/C-CODE.2017.7918936},
+ISSN={null},
+month={March},}

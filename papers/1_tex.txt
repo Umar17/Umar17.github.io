@@ -1,0 +1,12 @@
+@INPROCEEDINGS{7396412,
+author={M. U. {Farooq} and A. {Ayyaz} and S. M. {Awan} and A. {Shakoor}},
+booktitle={2015 International Conference on Open Source Systems Technologies (ICOSST)},
+title={Smartphone based interface for epidemic surveillance system},
+year={2015},
+volume={},
+number={},
+pages={115-119},
+keywords={diseases;electronic health records;epidemics;mobile computing;smart phones;user interfaces;disease surveillance;electronic health record system;mobile based patient data collection system;epidemic surveillance system;smart phone based interface;Servers;Data collection;Smart phones;Databases;Data visualization;Diseases;Web services;epidemic surveillance;android;acquisition;data transmission;data visualization},
+doi={10.1109/ICOSST.2015.7396412},
+ISSN={null},
+month={Dec},}

@@ -1,0 +1,9 @@
+@inproceedings{Farooq2019,
+  author={Muhammad Umar Farooq and Farah Adeeba and Sahar Rauf and Sarmad Hussain},
+  title={{Improving Large Vocabulary Urdu Speech Recognition System Using Deep Neural Networks}},
+  year=2019,
+  booktitle={Proc. Interspeech 2019},
+  pages={2978--2982},
+  doi={10.21437/Interspeech.2019-2629},
+  url={http://dx.doi.org/10.21437/Interspeech.2019-2629}
+}

@@ -1,0 +1,4 @@
+M. U. Farooq, A. Ayyaz, S. M. Awan and A. Shakoor, "Smartphone based interface for epidemic surveillance system," 2015 International Conference on Open Source Systems & Technologies (ICOSST), Lahore, 2015, pp. 115-119.
+doi: 10.1109/ICOSST.2015.7396412
+keywords: {diseases;electronic health records;epidemics;mobile computing;smart phones;user interfaces;disease surveillance;electronic health record system;mobile based patient data collection system;epidemic surveillance system;smart phone based interface;Servers;Data collection;Smart phones;Databases;Data visualization;Diseases;Web services;epidemic surveillance;android;acquisition;data transmission;data visualization},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7396412&isnumber=7396385
