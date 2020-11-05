@@ -1,0 +1,8 @@
+@INPROCEEDINGS{cocosda20,
+author={M. U. {Farooq} and F. {Adeeba} and S. {Hussain} and S. {Rauf} and M. {Khalid}},
+booktitle={2020 23rd Conference of the Oriental COCOSDA International Committee for the Co-ordination and Standardisation of Speech Databases and Assessment Techniques (O-COCOSDA)},
+title={Enhancing Large Vocabulary Continuous Speech Recognition System for Urdu-English Conversational Code-Switched Speech},
+year={2020},
+volume={},
+number={},
+pages={155-159},}
