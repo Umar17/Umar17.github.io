@@ -1,0 +1,8 @@
+@inproceedings{farooq22b_interspeech,
+  author={Muhammad Umar Farooq and Darshan Adiga Haniya Narayana and Thomas Hain},
+  title={{Non-Linear Pairwise Language Mappings for Low-Resource Multilingual Acoustic Model Fusion}},
+  year=2022,
+  booktitle={Proc. Interspeech 2022},
+  pages={4850--4854},
+  doi={10.21437/Interspeech.2022-11449}
+}
