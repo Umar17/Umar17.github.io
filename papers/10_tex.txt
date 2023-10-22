@@ -1,8 +1,0 @@
-@inproceedings{farooq22_interspeech,
-  author={Muhammad Umar Farooq and Thomas Hain},
-  title={{Investigating the Impact of Crosslingual Acoustic-Phonetic Similarities on Multilingual Speech Recognition}},
-  year=2022,
-  booktitle={Proc. Interspeech 2022},
-  pages={3849--3853},
-  doi={10.21437/Interspeech.2022-10916}
-}

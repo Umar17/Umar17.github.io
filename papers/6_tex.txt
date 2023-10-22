@@ -1,8 +1,0 @@
-@INPROCEEDINGS{9041237,
-author={M. U. {Farooq} and F. {Adeeba} and S. {Hussain}},
-booktitle={2019 22nd Conference of the Oriental COCOSDA International Committee for the Co-ordination and Standardisation of Speech Databases and Assessment Techniques (O-COCOSDA)},
-title={X-vectors based Urdu Speaker Identification for short utterances},
-year={2019},
-volume={},
-number={},
-pages={1-5},}

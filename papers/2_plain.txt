@@ -1,1 +1,0 @@
-M.U. Farooq, A. Shakoor, A.B. Siddique,"ARM based Bidirectional Visitor Counter and Automatic Room Light Controller using PIR sensors", Advances in Science, Technology and Engineering Systems Journal, vol. 1, no. 5, pp. 10-15 (2016).

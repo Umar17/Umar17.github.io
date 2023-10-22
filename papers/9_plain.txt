@@ -1,1 +1,0 @@
-Farooq, M.U., Narayana, D.A.H., Hain, T. (2022) Non-Linear Pairwise Language Mappings for Low-Resource Multilingual Acoustic Model Fusion. Proc. Interspeech 2022, 4850-4854, doi: 10.21437/Interspeech.2022-11449

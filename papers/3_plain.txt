@@ -1,4 +1,0 @@
-M. U. Farooq, A. Shakoor and A. B. Siddique, "An Efficient Dynamic Round Robin algorithm for CPU scheduling," 2017 International Conference on Communication, Computing and Digital Systems (C-CODE), Islamabad, 2017, pp. 244-248.
-doi: 10.1109/C-CODE.2017.7918936
-keywords: {embedded systems;operating systems (computers);scheduling;dynamic round robin algorithm;CPU scheduling;embedded systems;operating systems;process scheduling policy;dynamic time quantum;Heuristic algorithms;Round robin;Context;Scheduling;Operating systems;Sorting;Operating Systems (OS);CPU scheduling;Round Robin (RR) algorithm;Dyanmic time quantum},
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7918936&isnumber=7918883
