@@ -1,0 +1,76 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Muhammad Umar Farooq
+    - name: Email
+      value: <a href="mailto:mufarooq40@gmail.com">mufarooq40@gmail.com</a>
+    - name: Webpage
+      value: <a href="https://umar17.github.io">https://umar17.github.io</a>
+    - name: Languages
+      value: Urdu, English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD Computer Science
+      institution: University of Sheffield, UK.
+      year: 2021 - Present
+      description:
+        - title: Research focus
+          contents:
+            - Cross-lingual acoustic-phonetic similarities in the context of multilingual speech recognition
+
+    - title: MSc Electrical Engineering
+      institution: University of Engineering & Technolog Lahore, Pakistan
+      year: 2017-19
+      description:
+        - title: CGPA
+          contents:
+            - 3.68/4.00
+    
+    - title: BSc Electrical Engineering
+      institution: University of Engineering & Technolog Lahore, Pakistan
+      year: 2013-17
+      description:
+        - title: CGPA
+          contents:
+            - 3.42/4.00
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Graduate Teaching Assistant
+      institution: University of Sheffield, UK
+      year: 2022 - Present
+      description:
+        - Assist teachers in delievering lab sessions of various undergraduate and masters level modules (further details on Teaching page)
+        
+    - title: Pre-doc Intern
+      institution: Institute of Formal and Applied Linguistics (UFAL), Charles University, Prague
+      year: 2020
+      description:
+        - Manages speech related components of EU Horizon 2020 project 'European Live Translator'
+
+    - title: Research Officer
+      institution: Center for Language Engineering, UET Lahore
+      year: 2017-2020
+      description:
+        - R&D of speech technologies for low-resource Pakistani languages
+
+- title: Activities
+  type: list
+  contents:
+        <ul>
+        <li> Member Local Organising Committee of UK Speech 2023 </li>
+        <li> Technical Programme Committee (TPC) member of IEEE O-COCOSDA since 2019 </li>
+        <li> Peer reviewer for LRE, JASA, ICASSP and many others </li>
+        </ul>
+        
+- title: Memberships
+  type: list
+  contents:
+        <ul>
+        <li> IEEE </li>
+        <li> ISCA </li>
+        </ul>
