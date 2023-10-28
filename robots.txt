@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Umar17.github.io/sitemap.xml
+Sitemap: https://umar17.github.io/sitemap.xml
