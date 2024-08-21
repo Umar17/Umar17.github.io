@@ -10,36 +10,14 @@
     - name: Languages
       value: Urdu, English
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD Computer Science
-      institution: University of Sheffield, UK.
-      year: 2021 - Present
-      description:
-        - title: Research focus
-          contents:
-            - Cross-lingual acoustic-phonetic similarities in the context of multilingual speech recognition
-
-    - title: MSc Electrical Engineering
-      institution: University of Engineering & Technology Lahore, Pakistan
-      year: 2017-19
-      description:
-        - title: CGPA
-          contents:
-            - 3.68/4.00
-    
-    - title: BSc Electrical Engineering
-      institution: University of Engineering & Technology Lahore, Pakistan
-      year: 2013-17
-      description:
-        - title: CGPA
-          contents:
-            - 3.42/4.00
-
 - title: Experience
   type: time_table
   contents:
+
+    - title: Applied Research Scientist
+      institution: Emotech Ltd., UK
+      year: 2024 - Present
+    
     - title: Graduate Teaching Assistant
       institution: University of Sheffield, UK
       year: 2022 - 2024
@@ -58,6 +36,33 @@
       year: 2017-2020
       description:
         - R&D of speech technologies for low-resource Pakistani languages
+        
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD Computer Science
+      institution: University of Sheffield, UK.
+      year: 2021 - 24
+      description:
+        - title: Thesis
+          contents:
+            - Non-linear Cross-lingual Mappings for Low-resource Speech Recognition
+            
+    - title: MSc Electrical Engineering
+      institution: University of Engineering & Technology Lahore, Pakistan
+      year: 2017 - 19
+      description:
+        - title: CGPA
+          contents:
+            - 3.68/4.00
+    
+    - title: BSc Electrical Engineering
+      institution: University of Engineering & Technology Lahore, Pakistan
+      year: 2013 - 17
+      description:
+        - title: CGPA
+          contents:
+            - 3.42/4.00
 
 - title: Activities
   type: list
