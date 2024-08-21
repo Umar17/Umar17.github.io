@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Doctoral researcher, Artificial Intelligence (AI)
+subtitle: PhD in Artificial Intelligence (AI)
 
 profile:
   align: right
@@ -16,7 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a doctoral student at the [Department of Computer Science, University of Sheffield (UK)](http://dcs.shef.ac.uk) since 2021. I am working on multilingual speech recognition systems at the `LivePerson Centre for Speech and Language Technologies (SLT)` under the supervision of [Prof. Thomas Hain](https://www.sheffield.ac.uk/dcs/people/academic/thomas-hain). My PhD research revolves around cross-lingual acoustic-phonetic similarities. Being part of the LivePerson Centre, I am also associated with [Speech and Hearing (SPANDH)](https://www.sheffield.ac.uk/dcs/research/groups/spandh), and [Machine Intelligence for Natural Interfaces (MINI)](https://mini.dcs.shef.ac.uk/) research groups.
+I have started working as an Applied Research Scientist at [Emotech Ltd.](https://www.emotech.ai/) right after my PhD completion.
+
+In July 2024, I have graduated as a PhD from the [Department of Computer Science, University of Sheffield (UK)](http://dcs.shef.ac.uk) which I joined in 2021. During my PhD, my research focus have been low-resource and multilingual speech recognition at the `LivePerson Centre for Speech and Language Technologies (SLT)` under the supervision of [Prof. Thomas Hain](https://www.sheffield.ac.uk/dcs/people/academic/thomas-hain).  Being part of the LivePerson Centre, I am also associated with [Speech and Hearing (SPANDH)](https://www.sheffield.ac.uk/dcs/research/groups/spandh), and [Machine Intelligence for Natural Interfaces (MINI)](https://mini.dcs.shef.ac.uk/) research groups. My PhD at University of Sheffield has really been fun with some amazing colleagues and in a healthy research environemnt. I not only enjoyed my own research work, I had the chance to collaborate with my colleagues on other projects too. You can find our publications on the Publications page.
 
 Alongside my PhD, I have also developed a short course on '[Unsupervised Machine Learning](https://sites.google.com/sheffield.ac.uk/research-training/research-training?authuser=3#h.1eb5jfpdedbz)' for non-experts as a 'Training Assiatnt' at the University of Sheffield. I am also delivering sessions on [Python programming](https://sites.google.com/sheffield.ac.uk/research-training/research-training?authuser=3#h.hgfa3iwremo8) to non-experts (faculty members and PhD students from social science departments). I have also worked as a Graduate Teaching Assistant (GTA) for various modules at the University of Sheffield. I have assisted module leaders for various modules including 'Machine Learning and Adaptive Intelligence' and 'Data Science with Python'. Please visit the [teaching](/teaching/) page for details.
 
