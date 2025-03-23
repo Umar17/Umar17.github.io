@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem "jekyll", "~> 4.2"
-	gem "jekyll-scholar", group: :jekyll_plugins
+    gem "jekyll-scholar",
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
@@ -27,3 +27,4 @@ group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
 end
+
