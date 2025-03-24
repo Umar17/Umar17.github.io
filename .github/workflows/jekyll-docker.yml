@@ -12,10 +12,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Install dependencies
-      run: |
-        gem install bundler
-        bundle install
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.2'  # Change this if needed
+        bundler-cache: true
           
     - uses: actions/checkout@v3
     - name: Build the site in the jekyll/builder container
