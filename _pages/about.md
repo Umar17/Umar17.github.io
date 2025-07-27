@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: PhD in Artificial Intelligence (AI)
+subtitle: PhD in Machine Learning
 
 profile:
   align: right
