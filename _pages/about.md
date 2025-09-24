@@ -6,7 +6,7 @@ subtitle: PhD in Machine Learning
 
 profile:
   align: right
-  image: umarHeadshot.jpg
+  image: Muhammad Umar Farooq.jpeg
   image_circular: false # crops the image to make it circular
   more_info:
 
