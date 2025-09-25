@@ -7,7 +7,12 @@ nav: true
 nav_order: 5
 ---
 
-I have been working as Graduate Teaching Assistant at different departments at University of Sheffield since 2022. It is fun and exciting to instruct different labs of Electrical Engineering and Computer Science given my educational background and current PhD course. Following are the courses for which I have been instructing lab sessions.
+During my PhD, I have been working as a Graduate Teaching Assistant in different departments at the University of Sheffield since 2022. It is fun and exciting to instruct different labs of Electrical Engineering and Computer Science, given my educational background and PhD course. The following are the courses for which I have been instructing lab sessions.
+
+<h3> Short courses (Instructor) 2024 </h3>
+<ul>
+  <li>‘Unsupervised Machine Learning' for non-experts</li>
+</ul>
 
 <h3>Academic Year 2023 – 24</h3>
 
